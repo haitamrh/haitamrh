@@ -1,36 +1,22 @@
-### Hey 👋, I'm haitam ait rahou .
+### Hey 👋, I'm Haitam Ait Rahou.
 
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://github.com/yzp-99/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)]( )
+[![Zhihu](https://img.shields.io/badge/Zhihu-Follow-blue?style=flat&logo=zhihu)](https://www.zhihu.com/people/zhen-liang-liao-62)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode-cn.com/u/Jack_yu-1999/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yzp-99/)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=flat&logo=telegram)](https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
 
 <br />
-<br />
-
 
 ## About Me
 
-- 🎯 **Software Engineering student** at Nanchang University with growing expertise in **C programming and algorithm design**
-- 🌱 Currently mastering **full-stack development** while deepening my **Chinese language proficiency** 
-- 💡 **Transformed** from programming novice to passionate coder - proving my **capacity for growth and adaptation**
-- 🌐 **Cultural bridge-builder** with fluency in multiple languages and experience in cross-cultural communication
+- 🎯 **Software Engineering Student** at Nanchang University with growing expertise in **C Programming and Algorithm Design**
+- 🌱 Currently mastering **Full-Stack Development** while deepening my **Chinese Language Proficiency** 
+- 💡 **Transformed** from programming novice to passionate coder - proving my **Capacity for Growth and Adaptation**
+- 🌐 **Cultural Bridge-Builder** with fluency in multiple languages and experience in cross-cultural communication
 
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
+< img align="right" alt="Profile" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
 
 ## My Journey  
 
@@ -38,66 +24,65 @@ Although I initially had **limited interest in programming**, I discovered a gen
 
 ## Current Focus  
 
-- 🔨 Building robust **C programming foundations** and software development workflows  
-- 🌐 Developing **technical communication skills** in multilingual environments  
-- 📚 Preparing for **graduate studies** at internationally-renowned institutions like NYU Shanghai
-### 🛠 Technical Skills
+- 🔨 Building robust **C Programming Foundations** and software development workflows  
+- 🌐 Developing **Technical Communication Skills** in multilingual environments  
+- 📚 Preparing for **Graduate Studies** at internationally-renowned institutions like NYU Shanghai
+
+## 🛠 Technical Skills
+
 **Programming Languages:** C, Python, JavaScript  
-**Tools & Technologies:** Git, VS Code, Linux
+**Tools & Technologies:** Git, VS Code, Linux  
 **Currently Learning:** Full-Stack Development, Algorithms
 
-### 🌍 International Profile
+## 🌍 International Profile
+
 - **Languages:** Arabic (Native), English (Fluent), Chinese (Intermediate)
 - **Cultural Background:** Moroccan | International Student in China
 
-### 🎯 NYU Shanghai Preparation
+## 🎯 NYU Shanghai Preparation
+
 - Building strong foundation in software engineering
 - Developing cross-cultural communication skills
 - Preparing for graduate studies in international environment
 
+<br />
 
+## Languages and Tools
 
-**Languages and Tools:**  
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" alt="Python"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg" alt="C"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg" alt="HTML5"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg" alt="CSS3"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" alt="JavaScript"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg" alt="Git"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg" alt="Linux"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" alt="MySQL"></code>
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+## Technology Being Learned
 
-**Technology being learned**
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" alt="React"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg" alt="Vue.js"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg" alt="TypeScript"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg" alt="Django"></code>
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+< img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-**Favorite sites**
+## Favorite Sites
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" alt="GitHub"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" alt="Stack Overflow"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg" alt="freeCodeCamp"></code>
+<code>< img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg" alt="YouTube"></code>
 
+<br />
 
-📊 **My recent programming status:**
+📊 **My Recent Programming Status:**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+C Programming       10 hrs 30 mins   ████████████░░░░░░░░░   65.2%
+Python              3 hrs 15 mins    ████░░░░░░░░░░░░░░░░░   20.1%
+JavaScript          1 hr 45 mins     ██░░░░░░░░░░░░░░░░░░░   10.8%
+Git                 45 mins          █░░░░░░░░░░░░░░░░░░░░   4.6%
+Other               9 mins           ░░░░░░░░░░░░░░░░░░░░░   0.9%
 
