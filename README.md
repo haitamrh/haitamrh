@@ -34,10 +34,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of **JSU**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
+- 👨‍🏛 I am currently a student of ** nanchang university **.
+- 💻 Major is ** software engineering **.
+- 🌱 I'm currently learning ** Web development and Chinese language **. 
+- 🤔 My hobbies are ** plants flower **.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 
