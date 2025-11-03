@@ -41,7 +41,19 @@ Although I initially had **limited interest in programming**, I discovered a gen
 - 🔨 Building robust **C programming foundations** and software development workflows  
 - 🌐 Developing **technical communication skills** in multilingual environments  
 - 📚 Preparing for **graduate studies** at internationally-renowned institutions like NYU Shanghai
+### 🛠 Technical Skills
+**Programming Languages:** C, Python, JavaScript  
+**Tools & Technologies:** Git, VS Code, Linux
+**Currently Learning:** Full-Stack Development, Algorithms
 
+### 🌍 International Profile
+- **Languages:** Arabic (Native), English (Fluent), Chinese (Intermediate)
+- **Cultural Background:** Moroccan | International Student in China
+
+### 🎯 NYU Shanghai Preparation
+- Building strong foundation in software engineering
+- Developing cross-cultural communication skills
+- Preparing for graduate studies in international environment
 
 
 
