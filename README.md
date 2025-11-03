@@ -12,18 +12,16 @@
 <a href="https://github.com/yzp-99/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+</a>
 <a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://haitam768@icloud.com/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
-<a href="https://linkedin.com/ ">
-  <img align="left" alt="linkedin" width="22px" src="https://www.linkedin.com/in/
-haitam-ait-rahou-
-Vanity URL name
-" />
-</a>
+
 <br />
 <br />
+
 
 
 
