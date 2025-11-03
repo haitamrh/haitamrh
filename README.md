@@ -16,7 +16,12 @@
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
-
+<a href="https://linkedin.com/ ">
+  <img align="left" alt="linkedin" width="22px" src="https://www.linkedin.com/in/
+haitam-ait-rahou-
+Vanity URL name
+" />
+</a>
 <br />
 <br />
 
