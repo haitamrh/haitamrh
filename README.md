@@ -22,24 +22,25 @@
 <br />
 <br />
 
-- I am a **Programming rookie** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
+
+## About Me
+
+- 🎯 **Software Engineering student** at Nanchang University with growing expertise in **C programming and algorithm design**
+- 🌱 Currently mastering **full-stack development** while deepening my **Chinese language proficiency** 
+- 💡 **Transformed** from programming novice to passionate coder - proving my **capacity for growth and adaptation**
+- 🌐 **Cultural bridge-builder** with fluency in multiple languages and experience in cross-cultural communication
 
 <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
 
-**Talking about Personal Stuffs:**
+## My Journey  
 
-- 👨‍🏛 I am currently a student of ** nanchang university **.
-- 💻 Major is ** software engineering **.
-- 🌱 I'm currently learning ** Web development and Chinese language **. 
-- 🤔 My hobbies are ** plants flower **.
-- 💼 I am an **obsessive-compulsive disorder**.
-- 💬 If you have any questions, **just ask me**.
+Although I initially had **limited interest in programming**, I discovered a genuine passion through persistent learning and hands-on projects. This transformation taught me that **true mastery comes from curiosity and dedication** - a mindset I carry into every challenge.
+
+## Current Focus  
+
+- 🔨 Building robust **C programming foundations** and software development workflows  
+- 🌐 Developing **technical communication skills** in multilingual environments  
+- 📚 Preparing for **graduate studies** at internationally-renowned institutions like NYU Shanghai
 
 
 
