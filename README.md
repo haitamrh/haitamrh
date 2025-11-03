@@ -12,9 +12,7 @@
 <a href="https://github.com/yzp-99/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
+
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
@@ -31,7 +29,6 @@
 - 💡 **Transformed** from programming novice to passionate coder - proving my **Capacity for Growth and Adaptation**
 - 🌐 **Cultural Bridge-Builder** with fluency in multiple languages and experience in cross-cultural communication
 
-< img align="right" alt="Profile" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
 
 ## My Journey  
 
