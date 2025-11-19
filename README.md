@@ -51,7 +51,7 @@ Although I initially had **limited interest in programming**, I discovered a gen
 
 ## 🌍 International Profile
 
-- **Languages:** Arabic (Native), English (Fluent), Chinese (Intermediate)
+- **Languages:** Arabic (Native), English (Fluent), Chinese (Intermediate) , fresh (Fluent),
 - **Cultural Background:** Moroccan | International Student in China
 
 ## 🎯 NYU Shanghai Preparation
