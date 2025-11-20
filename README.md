@@ -15,7 +15,7 @@
 <a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
 </a>
-<a href="https://mail.google.com/ ">
+<a href="mailto:haitam768@icloud.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 
