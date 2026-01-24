@@ -27,7 +27,7 @@
 
 ## About Me
 
-- 🎯 **Software Engineering Student** at Nanchang University with growing expertise in **C Programming and Algorithm Design**
+- 🎯 **Software Engineering Student** at Nanchang University with growing expertise in **weeb development and Algorithm Design**
 - 🌱 Currently mastering **Full-Stack Development** while deepening my **Chinese Language Proficiency** 
 - 💡 **Transformed** from programming novice to passionate coder - proving my **Capacity for Growth and Adaptation**
 - 🌐 **Cultural Bridge-Builder** with fluency in multiple languages and experience in cross-cultural communication
