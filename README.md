@@ -39,7 +39,7 @@ Although I initially had **limited interest in programming**, I discovered a gen
 
 ## Current Focus  
 
-- 🔨 Building robust **C Programming Foundations** and software development workflows  
+- 🔨 Building robust **A Programming Foundations** and software development workflows  
 - 🌐 Developing **Technical Communication Skills** in multilingual environments  
 - 📚 Preparing for **Graduate Studies** at internationally-renowned institutions like NYU Shanghai
 
