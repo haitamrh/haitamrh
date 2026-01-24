@@ -45,9 +45,9 @@ Although I initially had **limited interest in programming**, I discovered a gen
 
 ## 🛠 Technical Skills
 
-**Programming Languages:** C, Python, JavaScript  
-**Tools & Technologies:** Git, VS Code, Linux  
-**Currently Learning:** Full-Stack Development, Algorithms
+**Programming Languages:** C,html/css , Java 
+**Tools & Technologies:**  VS Code  
+**Currently Learning:** web Development, Algorithms
 
 ## 🌍 International Profile
 
