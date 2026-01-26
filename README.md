@@ -41,7 +41,7 @@ Although I initially had **limited interest in programming**, I discovered a gen
 
 - 🔨 Building robust **A Programming Foundations** and software development workflows  
 - 🌐 Developing **Technical Communication Skills** in multilingual environments  
-- 📚 Preparing for **Graduate Studies** at internationally-renowned institutions like NYU Shanghai
+- 📚 Preparing for **Graduate Studies** at internationally-renowned institutions like NYU 
 
 ## 🛠 Technical Skills
 
@@ -54,7 +54,7 @@ Although I initially had **limited interest in programming**, I discovered a gen
 - **Languages:** Arabic (Native), English (Fluent), Chinese (Intermediate) , fresh (Fluent),
 - **Cultural Background:** Moroccan | International Student in China
 
-## 🎯 NYU Shanghai Preparation
+## 🎯 NYU Preparation
 
 - Building strong foundation in software engineering
 - Developing cross-cultural communication skills
